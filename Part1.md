@@ -1,6 +1,8 @@
 # AML-M1101
 ## Azure Machine Learning and Apple Silicon 101 (working draft)
 
+### Getting Started
+
 This will be the first part of multi-part series on setting up an Azure Machine Learning environment on Apple Silicon.  In this series we'll evaluate webmentions using Python and Jupyter.  I purposely chose this arrangement as it's something I've been working on over the past several weeks at https://wbaer.net.  At each part of this series, I'll explain what we're doing, why we're doing it, and what we hope to accomplish.
 
 What prompted me to write this series was the lack of documentation, guidance, or otherwise, that doesn't assume one has a deep level of experience with any of the aforementioned.  
