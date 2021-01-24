@@ -40,3 +40,9 @@ Miniconda is a free minimal installer for conda. Conda is an open source package
 Simply put, Anaconda is package manager. Jupyter is a presentation layer.
 
 Now that we've hopefully have the prerequisites installed, we need to get Azure Machine Learning connected to complete our baseline and this part of the series.
+
+To get started, we'll do a default installation of Azure Machine Learning SDK for Python, so in this case we'll install the 'azureml-core' package using 'pip install azureml-core'.
+
+As suggested in the name, this package contains core packages, modules, and classes for Azure Machine Learning.  The main areas include managing compute targets, creating/managing workspaces and experiments, and submitting/accessing model runs and run output/logging.
+
+You learn more here https://docs.microsoft.com/en-us/python/api/overview/azure/ml/install?view=azure-ml-py.
